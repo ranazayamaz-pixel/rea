@@ -1,0 +1,4 @@
+.toolchain/
+build/
+java-agent-debug.apk
+*.idsig
